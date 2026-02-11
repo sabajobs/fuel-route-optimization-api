@@ -1,0 +1,1242 @@
+[
+  {
+    "name": "WOODSHED OF BIG CABIN",
+    "city": "Big Cabin",
+    "state": "OK",
+    "price": 3.00733333,
+    "lat": 36.54019,
+    "lng": -95.22212
+  },
+  {
+    "name": "KWIK TRIP #796",
+    "city": "Tomah",
+    "state": "WI",
+    "price": 3.28733333,
+    "lat": 44.019192,
+    "lng": -90.50202
+  },
+  {
+    "name": "PILOT TRAVEL CENTER #1243",
+    "city": "Gila Bend",
+    "state": "AZ",
+    "price": 3.899,
+    "lat": 32.487265,
+    "lng": -82.939117
+  },
+  {
+    "name": "PILOT #1243",
+    "city": "Gila Bend",
+    "state": "AZ",
+    "price": 3.899,
+    "lat": 44.06058,
+    "lng": -121.283194
+  },
+  {
+    "name": "LITTLEFIELD EXPRESS #2",
+    "city": "Fort Smith",
+    "state": "AR",
+    "price": 3.399,
+    "lat": 35.34749,
+    "lng": -94.35718
+  },
+  {
+    "name": "ACI TRUCK STOP",
+    "city": "Columbia",
+    "state": "NJ",
+    "price": 3.079,
+    "lat": 39.680758,
+    "lng": -75.479274
+  },
+  {
+    "name": "SHENANDOAH TRUCK CENTER",
+    "city": "Mount Jackson",
+    "state": "VA",
+    "price": 2.899,
+    "lat": 46.758562,
+    "lng": -92.139831
+  },
+  {
+    "name": "CIRCLE K #2612042",
+    "city": "Jarrell",
+    "state": "TX",
+    "price": 2.919,
+    "lat": 30.774875,
+    "lng": -97.627508
+  },
+  {
+    "name": "PETRO STOPPING CENTER #348",
+    "city": "Shorter",
+    "state": "AL",
+    "price": 3.154,
+    "lat": 47.590621,
+    "lng": -117.561078
+  },
+  {
+    "name": "TA SEYMOUR TRAVEL CENTER",
+    "city": "Seymour",
+    "state": "IN",
+    "price": 3.959,
+    "lat": 35.859933,
+    "lng": -86.829718
+  },
+  {
+    "name": "TA COUNCIL BLUFFS TRAVEL CENTER",
+    "city": "Council Bluffs",
+    "state": "IA",
+    "price": 3.72566666,
+    "lat": 41.23565,
+    "lng": -95.880734
+  },
+  {
+    "name": "TOPS TRUCK STOP",
+    "city": "Sterling",
+    "state": "ND",
+    "price": 3.51566666,
+    "lat": 48.806613,
+    "lng": -100.06206
+  },
+  {
+    "name": "Good 2 Go #709",
+    "city": "Montrose",
+    "state": "CO",
+    "price": 3.424,
+    "lat": 40.213907,
+    "lng": -104.830978
+  },
+  {
+    "name": "OASIS TRAVEL PLAZA",
+    "city": "Laurel",
+    "state": "DE",
+    "price": 3.229,
+    "lat": 46.259248,
+    "lng": -119.086456
+  },
+  {
+    "name": "DELAWARE TRUCK PLAZA",
+    "city": "New Castle                              ",
+    "state": "DE",
+    "price": 3.249,
+    "lat": 39.664685,
+    "lng": -75.566167
+  },
+  {
+    "name": "One9 #89",
+    "city": "Ellenton",
+    "state": "FL",
+    "price": 3.439,
+    "lat": 27.526708,
+    "lng": -82.52277
+  },
+  {
+    "name": "DOWNIEVILLE FUEL STOP",
+    "city": "Dumont",
+    "state": "CO",
+    "price": 3.459,
+    "lat": 37.13364,
+    "lng": -104.520001
+  },
+  {
+    "name": "MOLLYS FOOD & FUEL",
+    "city": "Crawfordville                           ",
+    "state": "GA",
+    "price": 3.499,
+    "lat": 31.201462,
+    "lng": -89.036822
+  },
+  {
+    "name": "TA SAGINAW I 75 TRAVEL CENTER",
+    "city": "Bridgeport",
+    "state": "MI",
+    "price": 3.269,
+    "lat": 32.48668,
+    "lng": -82.937034
+  },
+  {
+    "name": "TA SAGINAW I 75 TRAVEL CENTER",
+    "city": "Bridgeport",
+    "state": "MI",
+    "price": 3.339,
+    "lat": 32.48668,
+    "lng": -82.937034
+  },
+  {
+    "name": "TA SAGINAW I 75 TRAVEL CENTER",
+    "city": "Bridgeport",
+    "state": "MI",
+    "price": 3.429,
+    "lat": 32.48668,
+    "lng": -82.937034
+  },
+  {
+    "name": "TA SAGINAW I 75 TRAVEL CENTER",
+    "city": "Bridgeport",
+    "state": "MI",
+    "price": 3.289,
+    "lat": 32.48668,
+    "lng": -82.937034
+  },
+  {
+    "name": "TA SAGINAW I 75 TRAVEL CENTER",
+    "city": "Bridgeport",
+    "state": "MI",
+    "price": 3.399,
+    "lat": 32.48668,
+    "lng": -82.937034
+  },
+  {
+    "name": "TA SAGINAW I 75 TRAVEL CENTER",
+    "city": "Bridgeport",
+    "state": "MI",
+    "price": 3.299,
+    "lat": 32.48668,
+    "lng": -82.937034
+  },
+  {
+    "name": "Lupton Truck Stop #567",
+    "city": "Lupton",
+    "state": "AZ",
+    "price": 3.299,
+    "lat": 32.270874,
+    "lng": -109.244384
+  },
+  {
+    "name": "PETRO STOPPING CENTER #306",
+    "city": "Eloy",
+    "state": "AZ",
+    "price": 3.474,
+    "lat": 47.590621,
+    "lng": -117.561078
+  },
+  {
+    "name": "CIRCLE K #4700095",
+    "city": "Henderson",
+    "state": "KY",
+    "price": 3.609,
+    "lat": 36.055559,
+    "lng": -115.045469
+  },
+  {
+    "name": "LOVES TRAVEL STOP #766",
+    "city": "Atkinson",
+    "state": "IL",
+    "price": 3.589,
+    "lat": 39.793233,
+    "lng": -88.265776
+  },
+  {
+    "name": "LOVES TRAVEL STOP #766",
+    "city": "Atkinson",
+    "state": "IL",
+    "price": 3.389,
+    "lat": 39.793233,
+    "lng": -88.265776
+  },
+  {
+    "name": "LOVES TRAVEL STOP #766",
+    "city": "Atkinson",
+    "state": "IL",
+    "price": 3.449,
+    "lat": 39.793233,
+    "lng": -88.265776
+  },
+  {
+    "name": "SPEEDWAY #8039",
+    "city": "Daleville",
+    "state": "IN",
+    "price": 3.624,
+    "lat": 39.80227,
+    "lng": -86.26721
+  },
+  {
+    "name": "RAYS TRUCK WASH",
+    "city": "Fort Wayne                              ",
+    "state": "IN",
+    "price": 3.59233333,
+    "lat": 39.6913,
+    "lng": -86.186583
+  },
+  {
+    "name": "CUBBYS #2101",
+    "city": "Gothenburg",
+    "state": "NE",
+    "price": 3.13233333,
+    "lat": 42.1067,
+    "lng": -96.707427
+  },
+  {
+    "name": "PILOT TRAVEL CENTER #87",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 3.859,
+    "lat": 32.487265,
+    "lng": -82.939117
+  },
+  {
+    "name": "PILOT TRAVEL CENTERS #87",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 3.859,
+    "lat": 40.355116,
+    "lng": -76.724532
+  },
+  {
+    "name": "PILOT TRAVEL CENTERS #79",
+    "city": "Denham Springs                          ",
+    "state": "LA",
+    "price": 3.23233333,
+    "lat": 40.355116,
+    "lng": -76.724532
+  },
+  {
+    "name": "FLYING J TRAVEL PLAZA #650",
+    "city": "Lake Station                            ",
+    "state": "IN",
+    "price": 3.809,
+    "lat": 46.259248,
+    "lng": -119.086456
+  },
+  {
+    "name": "FLYING J TRAVEL PLAZA #653",
+    "city": "Hebron",
+    "state": "IN",
+    "price": 3.43566666,
+    "lat": 46.259248,
+    "lng": -119.086456
+  },
+  {
+    "name": "Hop-In Food Stores",
+    "city": "Nacogdoches                             ",
+    "state": "TX",
+    "price": 2.859,
+    "lat": 37.353835,
+    "lng": -79.225024
+  },
+  {
+    "name": "SAPP BROS TRAVEL CENTER",
+    "city": "Council Bluffs",
+    "state": "IA",
+    "price": 3.719,
+    "lat": 41.366671,
+    "lng": -89.15216
+  },
+  {
+    "name": "COFFEE CUP FUEL STOP #5",
+    "city": "Moorcroft                               ",
+    "state": "WY",
+    "price": 3.239,
+    "lat": 30.196518,
+    "lng": -97.74148
+  },
+  {
+    "name": "DUDLEYS CORNER",
+    "city": "Latimer",
+    "state": "IA",
+    "price": 3.23233333,
+    "lat": 42.76361,
+    "lng": -93.365608
+  },
+  {
+    "name": "KUM & GO #0302",
+    "city": "Clear Lake",
+    "state": "IA",
+    "price": 3.18566666,
+    "lat": 46.089548,
+    "lng": 15.066555
+  },
+  {
+    "name": "Brew Stuart Truckstop",
+    "city": "Stuart                                  ",
+    "state": "IA",
+    "price": 3.099,
+    "lat": 42.481842,
+    "lng": -95.785209
+  },
+  {
+    "name": "PETRO STOPPING CENTER #311",
+    "city": "West Memphis",
+    "state": "AR",
+    "price": 3.36733333,
+    "lat": 47.590621,
+    "lng": -117.561078
+  },
+  {
+    "name": "SINCLAIR",
+    "city": "Atwood",
+    "state": "CO",
+    "price": 3.299,
+    "lat": 39.580339,
+    "lng": -104.988082
+  },
+  {
+    "name": "PETRO STOPPING CENTER #366",
+    "city": "Salina",
+    "state": "KS",
+    "price": 3.80566666,
+    "lat": 47.590621,
+    "lng": -117.561078
+  },
+  {
+    "name": "PILOT TRAVEL CENTER #31",
+    "city": "Highland",
+    "state": "IN",
+    "price": 3.829,
+    "lat": 32.487265,
+    "lng": -82.939117
+  },
+  {
+    "name": "PILOT TRAVEL CENTERS #31",
+    "city": "Highland",
+    "state": "IN",
+    "price": 3.799,
+    "lat": 40.355116,
+    "lng": -76.724532
+  },
+  {
+    "name": "MARATHON",
+    "city": "Sardinia                                ",
+    "state": "OH",
+    "price": 3.56566666,
+    "lat": 39.014667,
+    "lng": -83.809643
+  },
+  {
+    "name": "CIRCLE K #2721593",
+    "city": "Ocean Springs",
+    "state": "MS",
+    "price": 3.41566666,
+    "lat": 30.408207,
+    "lng": -88.757945
+  },
+  {
+    "name": "NORTH 9TH 24/7",
+    "city": "Salina",
+    "state": "KS",
+    "price": 3.02566666,
+    "lat": 38.851041,
+    "lng": -97.612459
+  },
+  {
+    "name": "PILOT TRAVEL CENTERS #92",
+    "city": "Ocala",
+    "state": "FL",
+    "price": 3.359,
+    "lat": 40.355116,
+    "lng": -76.724532
+  },
+  {
+    "name": "PILOT TRAVEL CENTER #92",
+    "city": "Ocala",
+    "state": "FL",
+    "price": 3.41233333,
+    "lat": 32.487265,
+    "lng": -82.939117
+  },
+  {
+    "name": "LA 1 SOUTH TRUCKSTOP",
+    "city": "Port Allen",
+    "state": "LA",
+    "price": 3.039,
+    "lat": 30.451765,
+    "lng": -91.209786
+  },
+  {
+    "name": "SAVE",
+    "city": "Lake Village",
+    "state": "IN",
+    "price": 3.179,
+    "lat": 41.130235,
+    "lng": -87.439027
+  },
+  {
+    "name": "BIG D TRUCK TRAVEL PLAZA",
+    "city": "Duson",
+    "state": "LA",
+    "price": 2.98233333,
+    "lat": 38.723655,
+    "lng": -104.729759
+  },
+  {
+    "name": "Mardi Gras Truck Stop",
+    "city": "New Orleans",
+    "state": "LA",
+    "price": 3.729,
+    "lat": 29.982699,
+    "lng": -90.057348
+  },
+  {
+    "name": "GOLDEN OX TRUCK STOP",
+    "city": "Hays",
+    "state": "KS",
+    "price": 3.499,
+    "lat": 38.895986,
+    "lng": -99.317099
+  },
+  {
+    "name": "LOVES TRAVEL STOP #450",
+    "city": "West Memphis",
+    "state": "AR",
+    "price": 3.32566666,
+    "lat": 35.658055,
+    "lng": -81.963437
+  },
+  {
+    "name": "BFS FOODS #66",
+    "city": "Grantsville                             ",
+    "state": "MD",
+    "price": 3.899,
+    "lat": 39.556406,
+    "lng": -79.351979
+  },
+  {
+    "name": "PILOT TRAVEL CENTER #917- TOWN PUMP",
+    "city": "Great Falls                             ",
+    "state": "MT",
+    "price": 3.63566666,
+    "lat": 32.487265,
+    "lng": -82.939117
+  },
+  {
+    "name": "CASEYS #3956",
+    "city": "Bridgman",
+    "state": "MI",
+    "price": 3.559,
+    "lat": 41.939308,
+    "lng": -86.567562
+  },
+  {
+    "name": "CORNER MARKET #117",
+    "city": "Dodge City",
+    "state": "KS",
+    "price": 3.399,
+    "lat": 31.314713,
+    "lng": -89.46712
+  },
+  {
+    "name": "PILOT TRAVEL CENTERS #24",
+    "city": "Monroe                                  ",
+    "state": "MI",
+    "price": 3.299,
+    "lat": 40.355116,
+    "lng": -76.724532
+  },
+  {
+    "name": "PILOT TRAVEL CENTERS #24",
+    "city": "Monroe                                  ",
+    "state": "MI",
+    "price": 3.249,
+    "lat": 40.355116,
+    "lng": -76.724532
+  },
+  {
+    "name": "PILOT TRAVEL CENTERS #24",
+    "city": "Monroe                                  ",
+    "state": "MI",
+    "price": 3.439,
+    "lat": 40.355116,
+    "lng": -76.724532
+  },
+  {
+    "name": "PILOT TRAVEL CENTERS #24",
+    "city": "Monroe                                  ",
+    "state": "MI",
+    "price": 3.349,
+    "lat": 40.355116,
+    "lng": -76.724532
+  },
+  {
+    "name": "PILOT TRAVEL CENTERS #24",
+    "city": "Monroe                                  ",
+    "state": "MI",
+    "price": 3.559,
+    "lat": 40.355116,
+    "lng": -76.724532
+  },
+  {
+    "name": "CARLISLE PLAZA",
+    "city": "Carlisle",
+    "state": "IN",
+    "price": 3.499,
+    "lat": 38.962723,
+    "lng": -87.400079
+  },
+  {
+    "name": "CIRCLE K #4700065",
+    "city": "Taylorsville",
+    "state": "IN",
+    "price": 3.399,
+    "lat": 35.923709,
+    "lng": -81.18964
+  },
+  {
+    "name": "LOVES TRAVEL STOP #173",
+    "city": "Lawrence",
+    "state": "KS",
+    "price": 3.229,
+    "lat": 37.63976,
+    "lng": -98.427548
+  },
+  {
+    "name": "PETES #56",
+    "city": "Cherryvale",
+    "state": "KS",
+    "price": 3.23233333,
+    "lat": 37.27019,
+    "lng": -95.555744
+  },
+  {
+    "name": "LOVES TRAVEL STOP #176",
+    "city": "Matfield Green",
+    "state": "KS",
+    "price": 3.25566666,
+    "lat": 43.150552,
+    "lng": -123.367114
+  },
+  {
+    "name": "FL Roberts",
+    "city": "Springfield",
+    "state": "MA",
+    "price": 3.599,
+    "lat": 42.118225,
+    "lng": -72.539526
+  },
+  {
+    "name": "QUIKTRIP #231",
+    "city": "Kansas City",
+    "state": "KS",
+    "price": 3.199,
+    "lat": 39.129029,
+    "lng": -94.770363
+  },
+  {
+    "name": "SAPP BROS TRAVEL CENTER",
+    "city": "Ogallala",
+    "state": "NE",
+    "price": 3.46566666,
+    "lat": 41.366671,
+    "lng": -89.15216
+  },
+  {
+    "name": "FLYING J TRAVEL PLAZA #748",
+    "city": "Willard                                 ",
+    "state": "UT",
+    "price": 3.749,
+    "lat": 46.259248,
+    "lng": -119.086456
+  },
+  {
+    "name": "TA JACKSONVILLE SOUTH TRAVEL CENTER",
+    "city": "Saint Johns",
+    "state": "FL",
+    "price": 3.469,
+    "lat": 32.487265,
+    "lng": -82.939117
+  },
+  {
+    "name": "7-ELEVEN #40514",
+    "city": "Portage",
+    "state": "IN",
+    "price": 3.99066666,
+    "lat": 14.202681,
+    "lng": 100.57258
+  },
+  {
+    "name": "TA BINGHAMTON TRAVELCENTER",
+    "city": "Binghamton",
+    "state": "NY",
+    "price": 3.769,
+    "lat": 42.099722,
+    "lng": -75.924444
+  },
+  {
+    "name": "TA BINGHAMTON TRAVELCENTER",
+    "city": "Binghamton",
+    "state": "NY",
+    "price": 3.689,
+    "lat": 42.099722,
+    "lng": -75.924444
+  },
+  {
+    "name": "TA BINGHAMTON TRAVELCENTER",
+    "city": "Binghamton",
+    "state": "NY",
+    "price": 3.699,
+    "lat": 42.099722,
+    "lng": -75.924444
+  },
+  {
+    "name": "TA BINGHAMTON TRAVELCENTER",
+    "city": "Binghamton",
+    "state": "NY",
+    "price": 3.739,
+    "lat": 42.099722,
+    "lng": -75.924444
+  },
+  {
+    "name": "CIRCLE K #2726293",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 3.31566666,
+    "lat": 26.712991,
+    "lng": -81.939314
+  },
+  {
+    "name": "WILTON TRAVEL PLAZA",
+    "city": "Gansevoort                              ",
+    "state": "NY",
+    "price": 3.749,
+    "lat": 46.259248,
+    "lng": -119.086456
+  },
+  {
+    "name": "WILTON TRAVEL PLAZA",
+    "city": "Gansevoort                              ",
+    "state": "NY",
+    "price": 3.799,
+    "lat": 46.259248,
+    "lng": -119.086456
+  },
+  {
+    "name": "GAS DEPOT",
+    "city": "Hammond",
+    "state": "IN",
+    "price": 3.999,
+    "lat": 41.166505,
+    "lng": -87.662585
+  },
+  {
+    "name": "7-Eleven #41830",
+    "city": "Jacksonville",
+    "state": "TX",
+    "price": 2.91566666,
+    "lat": 30.269576,
+    "lng": -81.755979
+  },
+  {
+    "name": "Circle K #2709664",
+    "city": "Yuma",
+    "state": "AZ",
+    "price": 3.489,
+    "lat": 32.698187,
+    "lng": -114.605978
+  },
+  {
+    "name": "Pilot Travel Centers #14",
+    "city": "Sunbury",
+    "state": "OH",
+    "price": 3.719,
+    "lat": 40.355116,
+    "lng": -76.724532
+  },
+  {
+    "name": "PILOT TRAVEL CENTERS #13",
+    "city": "Seville",
+    "state": "OH",
+    "price": 3.699,
+    "lat": 40.355116,
+    "lng": -76.724532
+  },
+  {
+    "name": "TRUCKOMAT OF HEBRON",
+    "city": "Hebron",
+    "state": "OH",
+    "price": 3.429,
+    "lat": 41.65928,
+    "lng": -72.39049
+  },
+  {
+    "name": "FUEL MART #641",
+    "city": "Perrysburg                              ",
+    "state": "OH",
+    "price": 3.499,
+    "lat": 41.522472,
+    "lng": -83.464232
+  },
+  {
+    "name": "PETRO STOPPING CENTER #316",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "price": 3.30233333,
+    "lat": 47.590621,
+    "lng": -117.561078
+  },
+  {
+    "name": "E EXPRESS",
+    "city": "Choctaw",
+    "state": "OK",
+    "price": 2.899,
+    "lat": 51.488933,
+    "lng": -0.105916
+  },
+  {
+    "name": "Neighbors Express",
+    "city": "Dublin                                  ",
+    "state": "GA",
+    "price": 3.299,
+    "lat": 5.625819,
+    "lng": -0.23197
+  },
+  {
+    "name": "WESTERN COOP",
+    "city": "Alliance",
+    "state": "NE",
+    "price": 3.324,
+    "lat": 37.566448,
+    "lng": 127.003288
+  },
+  {
+    "name": "MR FUEL #753",
+    "city": "Ruther Glen",
+    "state": "VA",
+    "price": 3.26566666,
+    "lat": 37.939289,
+    "lng": -77.465754
+  },
+  {
+    "name": "THE COUNTRY OASIS",
+    "city": "Woodburn                                ",
+    "state": "IN",
+    "price": 3.399,
+    "lat": 41.586143,
+    "lng": -85.845569
+  },
+  {
+    "name": "HAPPY HILLS GAS & COFFEE",
+    "city": "Rock Port",
+    "state": "MO",
+    "price": 3.399,
+    "lat": 40.412302,
+    "lng": -122.402569
+  },
+  {
+    "name": "TRUCK STOP 44",
+    "city": "Gilbert",
+    "state": "SC",
+    "price": 3.079,
+    "lat": 33.871332,
+    "lng": -81.389365
+  },
+  {
+    "name": "SPINX #271",
+    "city": "Orangeburg",
+    "state": "SC",
+    "price": 3.26233333,
+    "lat": 33.552669,
+    "lng": -80.827895
+  },
+  {
+    "name": "LOAF N JUG #750010",
+    "city": "Alamosa",
+    "state": "CO",
+    "price": 3.259,
+    "lat": 37.473365,
+    "lng": -105.856775
+  },
+  {
+    "name": "KEWANEE 1 STOP",
+    "city": "Toomsuba",
+    "state": "MS",
+    "price": 3.299,
+    "lat": 32.425602,
+    "lng": -88.448021
+  },
+  {
+    "name": "GASTRAK OF PEMBINA",
+    "city": "Pembina                                 ",
+    "state": "ND",
+    "price": 3.299,
+    "lat": 48.96654,
+    "lng": -97.24744
+  },
+  {
+    "name": "ALLSUPS #2387",
+    "city": "Guymon",
+    "state": "OK",
+    "price": 2.97566666,
+    "lat": 33.544104,
+    "lng": 131.369604
+  },
+  {
+    "name": "LA NORIA CONV STORES",
+    "city": "Laredo                                  ",
+    "state": "TX",
+    "price": 3.299,
+    "lat": 30.11659,
+    "lng": -95.381992
+  },
+  {
+    "name": "EDDIES CORNER",
+    "city": "Moore",
+    "state": "MT",
+    "price": 3.749,
+    "lat": 46.974864,
+    "lng": -109.693715
+  },
+  {
+    "name": "One9 #403",
+    "city": "Heiskell",
+    "state": "TN",
+    "price": 2.999,
+    "lat": 36.08175,
+    "lng": -84.0538
+  },
+  {
+    "name": "PILOT TRAVEL CENTERS #270",
+    "city": "Knoxville",
+    "state": "TN",
+    "price": 3.439,
+    "lat": 40.355116,
+    "lng": -76.724532
+  },
+  {
+    "name": "LOVES TRAVEL STOPS #256",
+    "city": "Van Horn",
+    "state": "TX",
+    "price": 3.649,
+    "lat": 31.040253,
+    "lng": -104.831363
+  },
+  {
+    "name": "LOVES TRAVEL STOP #256",
+    "city": "Van Horn",
+    "state": "TX",
+    "price": 3.649,
+    "lat": 32.508235,
+    "lng": -95.642465
+  },
+  {
+    "name": "GO MART FOOD STORE #57",
+    "city": "Lore City                               ",
+    "state": "OH",
+    "price": 3.179,
+    "lat": 39.760238,
+    "lng": -104.847427
+  },
+  {
+    "name": "CIRCLE K #2723322",
+    "city": "Gainesville",
+    "state": "GA",
+    "price": 3.26566666,
+    "lat": 29.600177,
+    "lng": -82.374392
+  },
+  {
+    "name": "FASTBREAK",
+    "city": "West Point",
+    "state": "MS",
+    "price": 3.059,
+    "lat": 42.379041,
+    "lng": -122.90764
+  },
+  {
+    "name": "PLAZA 30",
+    "city": "Wanatah",
+    "state": "IN",
+    "price": 3.499,
+    "lat": 41.431534,
+    "lng": -86.897166
+  },
+  {
+    "name": "SAPP BROS TRAVEL CENTER",
+    "city": "Peru",
+    "state": "IL",
+    "price": 3.389,
+    "lat": 41.366671,
+    "lng": -89.15216
+  },
+  {
+    "name": "SAPP BROS TRAVEL CENTER",
+    "city": "Peru",
+    "state": "IL",
+    "price": 3.589,
+    "lat": 41.366671,
+    "lng": -89.15216
+  },
+  {
+    "name": "SAPP BROS TRAVEL CENTER",
+    "city": "Peru",
+    "state": "IL",
+    "price": 3.449,
+    "lat": 41.366671,
+    "lng": -89.15216
+  },
+  {
+    "name": "SAPP BROS TRAVEL CENTER",
+    "city": "Peru",
+    "state": "IL",
+    "price": 3.289,
+    "lat": 41.366671,
+    "lng": -89.15216
+  },
+  {
+    "name": "SHELL MORGAN ROAD TRUCK STOP",
+    "city": "Maumelle",
+    "state": "AR",
+    "price": 3.20733333,
+    "lat": 36.336423,
+    "lng": -94.264697
+  },
+  {
+    "name": "TA GARY TRAVEL CENTER",
+    "city": "Gary",
+    "state": "IN",
+    "price": 3.83066666,
+    "lat": 45.432893,
+    "lng": -73.860288
+  },
+  {
+    "name": "TA ELOY TRAVEL CENTER",
+    "city": "Eloy",
+    "state": "AZ",
+    "price": 3.459,
+    "lat": 32.772992,
+    "lng": -111.61756
+  },
+  {
+    "name": "PILOT TRAVEL CENTER #881",
+    "city": "Fort Wayne                              ",
+    "state": "IN",
+    "price": 3.899,
+    "lat": 42.920065,
+    "lng": -78.966268
+  },
+  {
+    "name": "PILOT TRAVEL CENTERS #881",
+    "city": "Fort Wayne                              ",
+    "state": "IN",
+    "price": 3.879,
+    "lat": 40.355116,
+    "lng": -76.724532
+  },
+  {
+    "name": "PETRO STOPPING CENTER #343",
+    "city": "Egan",
+    "state": "LA",
+    "price": 3.624,
+    "lat": 47.590621,
+    "lng": -117.561078
+  },
+  {
+    "name": "LOVES TRAVEL STOP #449",
+    "city": "Troutdale",
+    "state": "OR",
+    "price": 3.779,
+    "lat": 45.543283,
+    "lng": -122.392093
+  },
+  {
+    "name": "FLYING J TRAVEL PLAZA #764",
+    "city": "Rock Springs",
+    "state": "WY",
+    "price": 3.67066666,
+    "lat": 46.259248,
+    "lng": -119.086456
+  },
+  {
+    "name": "AMERISTAR TRAVEL PLAZA #120",
+    "city": "Prosser",
+    "state": "WA",
+    "price": 4.399,
+    "lat": 46.259248,
+    "lng": -119.086456
+  },
+  {
+    "name": "AMERISTAR TRAVEL PLAZA #120",
+    "city": "Prosser",
+    "state": "WA",
+    "price": 4.559,
+    "lat": 46.259248,
+    "lng": -119.086456
+  },
+  {
+    "name": "TA TUSCALOOSA TRAVEL CENTER",
+    "city": "Cottondale",
+    "state": "AL",
+    "price": 2.964,
+    "lat": 33.176037,
+    "lng": -87.446015
+  },
+  {
+    "name": "TA Concordia Travel Plaza",
+    "city": "Concordia",
+    "state": "MO",
+    "price": 3.22566666,
+    "lat": 42.785318,
+    "lng": -96.796534
+  },
+  {
+    "name": "Sapp Bros Travel Center",
+    "city": "Sidney",
+    "state": "NE",
+    "price": 3.50066666,
+    "lat": 41.366671,
+    "lng": -89.15216
+  },
+  {
+    "name": "JIFFY MART EXIT 18 TRUCK STOP",
+    "city": "Lebanon",
+    "state": "NH",
+    "price": 3.599,
+    "lat": 36.376949,
+    "lng": -94.221577
+  },
+  {
+    "name": "TA MAYBROOK TRAVEL CENTER",
+    "city": "Montgomery",
+    "state": "NY",
+    "price": 4.359,
+    "lat": 41.504247,
+    "lng": -74.220692
+  },
+  {
+    "name": "KWIK FILL #227",
+    "city": "Geneva",
+    "state": "OH",
+    "price": 3.15233333,
+    "lat": 40.272105,
+    "lng": -81.869121
+  },
+  {
+    "name": "FLYING J #850",
+    "city": "Edmonton",
+    "state": "AB",
+    "price": 4.39948962,
+    "lat": 53.571407,
+    "lng": -113.61376
+  },
+  {
+    "name": "FLYING J #850",
+    "city": "Edmonton",
+    "state": "AB",
+    "price": 4.39625375,
+    "lat": 53.571407,
+    "lng": -113.61376
+  },
+  {
+    "name": "FLYING J #850",
+    "city": "Edmonton",
+    "state": "AB",
+    "price": 4.40695023,
+    "lat": 53.571407,
+    "lng": -113.61376
+  },
+  {
+    "name": "FLYING J #850",
+    "city": "Edmonton",
+    "state": "AB",
+    "price": 4.40630048,
+    "lat": 53.571407,
+    "lng": -113.61376
+  },
+  {
+    "name": "FLYING J #850",
+    "city": "Edmonton",
+    "state": "AB",
+    "price": 4.39722401,
+    "lat": 53.571407,
+    "lng": -113.61376
+  },
+  {
+    "name": "FLYING J #850",
+    "city": "Edmonton",
+    "state": "AB",
+    "price": 4.3981947,
+    "lat": 53.571407,
+    "lng": -113.61376
+  },
+  {
+    "name": "UNION 76",
+    "city": "Albany",
+    "state": "OR",
+    "price": 3.379,
+    "lat": 44.622238,
+    "lng": -123.092707
+  },
+  {
+    "name": "ONE9 #1366",
+    "city": "Holladay",
+    "state": "TN",
+    "price": 2.98566666,
+    "lat": 36.14284,
+    "lng": -85.54331
+  },
+  {
+    "name": "TA KNOXVILLE EAST TRAVEL CENTER",
+    "city": "Knoxville",
+    "state": "TN",
+    "price": 3.42566666,
+    "lat": 32.487265,
+    "lng": -82.939117
+  },
+  {
+    "name": "FLYING J #869",
+    "city": "Nanton",
+    "state": "AB",
+    "price": 4.39948962,
+    "lat": 42.598189,
+    "lng": -73.973582
+  },
+  {
+    "name": "FLYING J #869",
+    "city": "Nanton",
+    "state": "AB",
+    "price": 4.59317483,
+    "lat": 42.598189,
+    "lng": -73.973582
+  },
+  {
+    "name": "FLYING J #869",
+    "city": "Nanton",
+    "state": "AB",
+    "price": 4.59114784,
+    "lat": 42.598189,
+    "lng": -73.973582
+  },
+  {
+    "name": "FLYING J #869",
+    "city": "Nanton",
+    "state": "AB",
+    "price": 4.60163996,
+    "lat": 42.598189,
+    "lng": -73.973582
+  },
+  {
+    "name": "FLYING J #869",
+    "city": "Nanton",
+    "state": "AB",
+    "price": 4.59216111,
+    "lat": 42.598189,
+    "lng": -73.973582
+  },
+  {
+    "name": "FLYING J #869",
+    "city": "Nanton",
+    "state": "AB",
+    "price": 4.60231851,
+    "lat": 42.598189,
+    "lng": -73.973582
+  },
+  {
+    "name": "PETRO STOPPING CENTER #350",
+    "city": "Canutillo",
+    "state": "TX",
+    "price": 3.499,
+    "lat": 29.437404,
+    "lng": -98.379533
+  },
+  {
+    "name": "CROWN POINT TRUCK STOP",
+    "city": "Thorofare",
+    "state": "NJ",
+    "price": 3.549,
+    "lat": -37.759094,
+    "lng": 145.331059
+  },
+  {
+    "name": "TA EXPRESS SUMMIT",
+    "city": "Summit",
+    "state": "SD",
+    "price": 3.20566666,
+    "lat": 34.652125,
+    "lng": 117.65321
+  }
+]
