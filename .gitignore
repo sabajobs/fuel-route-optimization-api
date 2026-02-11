@@ -1,22 +1,48 @@
+# -------------------------
 # Python
+# -------------------------
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.egg-info/
+*.log
 
+# Bytecode / caches
+.cache/
+.pytest_cache/
+
+# -------------------------
 # Virtualenv
+# -------------------------
 venv/
+.venv/
 
+# -------------------------
 # Django
+# -------------------------
 db.sqlite3
+*.sqlite3
+media/
 
-# Env
+# -------------------------
+# Environment variables
+# -------------------------
 .env
 
-# OS
+# -------------------------
+# OS files
+# -------------------------
 .DS_Store
+Thumbs.db
 
-# IDE
+# -------------------------
+# IDE / Editor
+# -------------------------
 .vscode/
 .idea/
+
+# -------------------------
+# Local notes (do not submit)
+# -------------------------
 notes.md
